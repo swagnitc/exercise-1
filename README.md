@@ -6,6 +6,8 @@ This is a simple, lightweight HTML registration form built as part of an initial
 
 * **Username Input**: Standard text field for user identification.
 * **Email Input**: Standard email field with built-in basic browser validation.
+* **Secure Password Field**: Radio button to select options.
+* **Gender Selection**: Radio button to select options.
 * **Submission Button**: Standard form submission button.
 
 ## How to Run the Project
